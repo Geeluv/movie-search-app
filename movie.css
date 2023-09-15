@@ -74,7 +74,7 @@ nav {
     transform: scale(1.15);
 }
 
-.notif {
+.notifications {
     width: 100%;
     display: flex;
     justify-content: center;
