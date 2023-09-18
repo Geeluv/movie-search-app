@@ -7,6 +7,8 @@
 body {
     background-color: #131720;
     font-family: sans-serif;
+    position: relative;
+    font-family: 'Play', sans-serif;
 }
 
 nav {
@@ -51,6 +53,7 @@ nav {
     color: #fff;
     overflow: hidden;
     border-radius: 0.5rem;
+    cursor: pointer;
 }
 
 .card-img {
@@ -90,6 +93,7 @@ nav {
 .movie-desc div {
     margin-bottom: 0.35rem;
 }
+
 
 @media screen and (max-width: 500px) {
     .logo {
