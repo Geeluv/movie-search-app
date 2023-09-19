@@ -8,6 +8,7 @@ body {
     background-color: #131720;
     font-family: sans-serif;
     position: relative;
+    /* font-family: 'Lato', sans-serif; */
     font-family: 'Play', sans-serif;
 }
 
@@ -33,6 +34,7 @@ nav {
     background-color: #131720;
     border: 0;
     color: #fff;
+    font-family: inherit;
 }
 
 .row {
